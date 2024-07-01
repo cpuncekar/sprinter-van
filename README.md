@@ -12,3 +12,5 @@ https://www.midjourney.com/jobs/423e5b8e-0821-4ee6-94ed-2ef315b35773?index=3
 
 
 ![Delivery Van](0_2-2_delivery_van.png)
+
+![Delivery Van no logo cleaned up](0_3_delivery_van.png)
