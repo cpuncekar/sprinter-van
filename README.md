@@ -11,9 +11,14 @@ white electric delivery sprinter vehicle mercedes, no drop shadow, transparent b
 https://www.midjourney.com/jobs/423e5b8e-0821-4ee6-94ed-2ef315b35773?index=3
 
 
-## Deliver Sprinter Van - Mercedes
+## Delivery Sprinter Van - Mercedes
 prompt - black electric delivery sprinter vehicle mercedes, white background
 https://www.midjourney.com/jobs/23b869d3-042e-4e76-ad3a-b916acbbfaa9?index=0
+
+## Delivery Sprinter Van - Mercedes
+prompt - pink electric delivery sprinter vehicle mercedes, white background
+https://www.midjourney.com/jobs/1f26edac-69f3-4a47-9e1e-b8ab3833c8a8?index=0
+
 
 ![Delivery Van](0_2-2_delivery_van.png)
 
