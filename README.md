@@ -19,6 +19,7 @@ prompt - pink electric delivery sprinter vehicle mercedes, white background
 https://www.midjourney.com/jobs/1f26edac-69f3-4a47-9e1e-b8ab3833c8a8?index=0
 
 ## Delivery Sprinter Van - Ford
+a sihouette of a modern Ford Transit side on that is generic and could be used as a placeholder image for a vehicle advert. Hyper realistic sized at 1980 x 1080 pixels
 Link: [ Ford Sprinter Van ] ( https://www.midjourney.com/jobs/3b971911-59f9-40ef-8866-2ad3d88c08fe?index=0 )
 
 ![Delivery Van](0_2-2_delivery_van.png)
